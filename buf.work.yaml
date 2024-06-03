@@ -1,0 +1,4 @@
+version: v1
+directories:
+  - idl/proto/service1
+  - idl/proto/common
